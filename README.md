@@ -1,4 +1,4 @@
-shadowsocks
+ss
 ===========
 
 [![PyPI version]][PyPI]
